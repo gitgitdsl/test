@@ -1,0 +1,13 @@
+{
+  "name": "스타워즈",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./스타워즈.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitgitdsl/test"
+  },
+  "dependencies": {
+    "system-runtime": "^3.1.0"
+  }
+}
